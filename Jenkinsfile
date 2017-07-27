@@ -1,4 +1,4 @@
-pipeline {
+node {
     stage('hello'){
     echo 'hello world'
     }
